@@ -1,0 +1,17 @@
+/*
+ *@description: weui样式重置
+ *@author: liangtian 
+ *@date: 2019-12-30 14:57:34
+*/
+.weui-tabbar{
+	height: 0.51rem;
+	line-height: 0.51rem;
+	.weui-tabbar__item{
+		color: #007AFF;
+		font-size:0.16rem;
+		padding:0;
+	}
+	.weui-bar__item--on{
+		color: #04BE02;
+	}
+}
